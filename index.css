@@ -1,0 +1,125 @@
+
+body {
+    background-color:rgb(121, 121, 184);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+ul{
+    color:aliceblue;
+    border: solid  rgb(77, 77, 145);
+    height: 30px;
+    padding: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgb(188, 188, 232);
+    gap: 20px;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    height: 10vh;
+    font-size: 21px;
+
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+h2,h3{
+    text-align: center;
+}
+
+h2,div,ul,h3{
+    color: aliceblue;
+}
+th{
+    background-color:rgb(98, 98, 222) ;
+}
+ table tr:hover td{
+    background-color:rgb(216, 216, 238) !important;
+    
+}
+td{
+    background-color:white;
+    height: 50px;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    padding-bottom:30px;: ;
+}
+.x{
+    text-align: center;
+}
+label{
+    color: rgb(34, 93, 145);
+    display: block;
+}
+button{
+    color:aliceblue;
+    width: 40%;
+    padding: 10px;
+    background-color: rgb(72, 72, 171);
+    border: none;
+}
+form{
+    border: solid 10px rgb(188,188, 232);
+    padding: 20px;
+    background-color :rgb(188, 188, 232);
+    margin: 40px auto;
+    width: 350px;
+}
+input{
+    width: 50%;
+    padding: 10px;
+
+}
+.pop{
+    color:aliceblue;
+}
+p{
+    color:aliceblue;
+}
+ footer{
+    background-color: rgb(188,188,232);
+    width: 100%;
+    font-size: 18px;
+    color:aliceblue;
+    margin-top: auto;
+    text-align: center;
+    padding-top: 90px solid rgb(188,188,232);
+}
+a{
+    text-decoration: none;
+}
+ul a {
+    border:2px solid transparent ;
+    cursor: pointer;
+}
+ul a:hover{
+    background-color: transparent;
+    border-color:rgb(188, 188, 232);
+    color: aliceblue;
+}
+@media( max-width:768px)  {
+    nav ul {
+        flex-direction: column;
+        gap: 15px;
+    }
+    table{
+        width: 100%;
+    }
+    form{width: 90%;
+    padding: 20px auto;
+    }
+    .home{
+        padding: 50px 15px;
+    }
+}
+  .content{
+    flex: 1;
+  }  

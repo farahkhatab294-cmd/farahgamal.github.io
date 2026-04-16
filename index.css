@@ -32,7 +32,7 @@ h2,h3{
     text-align: center;
 }
 
-h2,div,ul,h3,h4{
+h2,div,ul,h3{
     color: aliceblue;
 }
 th{
@@ -87,7 +87,7 @@ p{
  footer{
     background-color: rgb(188,188,232);
     width: 100%;
-    font-size: 20px;
+    font-size: 21px;
     color:aliceblue;
     margin-top: auto;
     text-align: center;

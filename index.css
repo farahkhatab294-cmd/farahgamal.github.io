@@ -24,7 +24,7 @@ ul{
     display: flex;
     justify-content: center;
     height: 10vh;
-    font-size: 19px;
+    font-size: 17px;
 
 
 }
@@ -95,7 +95,7 @@ p{
     color:aliceblue;
     margin-top: 150px;
     text-align: center;
-    padding: 20px 0;
+    padding: 20px ;
 }
 a{
     text-decoration: none;

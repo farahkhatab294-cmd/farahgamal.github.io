@@ -89,9 +89,9 @@ p{
     width: 100%;
     font-size: 21px;
     color:aliceblue;
-    margin-top: 350px;
+    margin-top: 300px;
     text-align: center;
-    padding-bottom: 90px solid rgb(188,188,232);
+    padding: 20px 0;
 }
 a{
     text-decoration: none;

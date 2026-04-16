@@ -21,7 +21,7 @@ ul{
     display: flex;
     justify-content: center;
     height: 10vh;
-    font-size: 21px;
+    font-size: 26px;
 
 }
 h1{
@@ -32,7 +32,7 @@ h2,h3{
     text-align: center;
 }
 
-h2,div,ul,h3{
+h2,div,ul,h3,h4{
     color: aliceblue;
 }
 th{
@@ -87,7 +87,7 @@ p{
  footer{
     background-color: rgb(188,188,232);
     width: 100%;
-    font-size: 18px;
+    font-size: 20px;
     color:aliceblue;
     margin-top: auto;
     text-align: center;

@@ -27,6 +27,7 @@ ul{
     font-size: 17px;
 
 
+
 }
 h1{
     color: aliceblue;
@@ -55,6 +56,8 @@ td{
 table{
     width: 100%;
     justify-content: center;
+    border-collapse: collapse;
+    margin-top: 20px;
 }
 .x{
     text-align: center;
@@ -75,7 +78,8 @@ form{
     padding: 20px;
     background-color :rgb(188, 188, 232);
     margin: 40px auto;
-    width: 100%;
+    width: 300px;
+    justify-content: center;
 }
 input{
     width: 50%;

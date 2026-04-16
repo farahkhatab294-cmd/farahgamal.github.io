@@ -75,7 +75,7 @@ form{
     padding: 20px;
     background-color :rgb(188, 188, 232);
     margin: 40px auto;
-    width: 350px;
+    width: 100%;
 }
 input{
     width: 50%;
@@ -90,12 +90,12 @@ p{
 }
  footer{
     background-color: rgb(188,188,232);
-    width: 80%;
+    width: 100%;
     font-size: 21px;
     color:aliceblue;
     margin-top: 100px;
     text-align: center;
-    padding: 20px 100px;
+    padding: 20px 50px;
 
 }
 a{
